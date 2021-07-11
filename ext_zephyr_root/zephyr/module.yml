@@ -3,8 +3,8 @@ build:
   cmake-ext: True
   kconfig-ext: True
   settings:
-     board_root: ./zephyr
-     soc_root: ./zephyr
-     dts_root: ./zephyr
+     board_root: .
+     soc_root: .
+     dts_root: .
      module_ext_root: .
 

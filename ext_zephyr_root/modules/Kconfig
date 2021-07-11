@@ -1,2 +1,2 @@
-rsource "../zephyr/drivers/Kconfig"
-rsource "../zephyr/subsys/Kconfig"
+rsource "../drivers/Kconfig"
+rsource "../subsys/Kconfig"
