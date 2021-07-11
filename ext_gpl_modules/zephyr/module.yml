@@ -1,7 +1,0 @@
-name: ext-gpl-modules
-build:
-  cmake-ext: True
-  kconfig-ext: True
-  settings:
-    module_ext_root: .
-
