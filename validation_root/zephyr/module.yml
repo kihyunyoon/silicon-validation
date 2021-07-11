@@ -1,4 +1,4 @@
-name: ext-zephyr-root
+name: validation-root
 build:
   cmake-ext: True
   kconfig-ext: True
