@@ -1,0 +1,10 @@
+name: ext-zephyr-root
+build:
+  cmake-ext: True
+  kconfig-ext: True
+  settings:
+     board_root: ./zephyr
+     soc_root: ./zephyr
+     dts_root: ./zephyr
+     module_ext_root: .
+
