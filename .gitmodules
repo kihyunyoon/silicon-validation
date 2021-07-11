@@ -1,0 +1,3 @@
+[submodule "ext-gpl-modules"]
+	path = ext-gpl-modules
+	url = https://github.com/kihyunyoon/ext-gpl-modules.git
