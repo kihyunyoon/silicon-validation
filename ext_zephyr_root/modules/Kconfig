@@ -1,0 +1,2 @@
+rsource "../zephyr/drivers/Kconfig"
+rsource "../zephyr/subsys/Kconfig"
